@@ -28,14 +28,14 @@ $settings = array(
      * Name of Entity class to use. Useful for using your own entity class
      * instead of the default one provided. Default is ScnSocialAuth\Entity\UserProvider.
      */
-    //'user_provider_entity_class' => 'ScnSocialAuth\Entity\UserProvider',
+    'user_provider_entity_class' => 'ScnSocialAuth\Entity\UserProvider',
 
     /**
      * Facebook Enabled
      *
      * Please specify if Facebook is enabled
      */
-    //'facebook_enabled' => true,
+    'facebook_enabled' => true,
 
     /**
      * Facebook Scope
@@ -46,7 +46,7 @@ $settings = array(
      * See the Facebook docs for a full list of available permissions:
      * http://developers.facebook.com/docs/reference/api/permissions.
      */
-    //'facebook_scope' => '',
+    'facebook_scope' => '',
 
     /**
      * Facebook Display
@@ -102,7 +102,7 @@ $settings = array(
      *
      * Please specify if Google is enabled
      */
-    //'google_enabled' => true,
+    'google_enabled' => true,
 
     /**
      * Google Scope

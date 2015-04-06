@@ -20,7 +20,7 @@ $settings = array(
      *
      * Default: empty
      */
-    'email_from_address' => 'your_email_address@here.com',
+    'email_from_address' => 'rim.masmoudi85@gmail.com',
 
     /**
      * Subject line of the email address verification message which is
